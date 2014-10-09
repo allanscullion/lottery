@@ -27,7 +27,7 @@ function get_prize() {
             var title = mainblock.find('.title').text().trim();
             var prize = mainblock.find('.est-jackpot').text().trim();
 
-            console.log("EuroMillions: " + title + " " + prize);
+            console.log("EuroMillions Prize: " + title + " " + prize);
         } 
         else 
         {
